@@ -7,7 +7,7 @@ public class multiplie {
      
 	    
 		
-        for(int i=2; i>10; i++)
+        for(int i=5; i>10; i++)
  
 	    System.out.println(i*10); 
 	}
